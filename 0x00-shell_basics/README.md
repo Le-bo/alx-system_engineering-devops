@@ -4,6 +4,9 @@
 4. A script that prints the contents of current working directory in long format.
 5. A script that prints the contents of the current working directory including hidden contents in long format
 6. A script that display current directory contents, in long format, with user and group ID's displayed numerically and hidden files.
-7. A script that moves a file. 
-8. A script that deletes a file.
-9. A script that deletes a directory 
+7. A script that creates a directory. 
+8. A script that moves a file. 
+9. A script that deletes a file. 
+10. A script that deletes a directory. 
+11. A script that changes the current working directoty to the previouse directory 
+
