@@ -9,4 +9,5 @@
 9. A script that deletes a file. 
 10. A script that deletes a directory. 
 11. A script that changes the current working directoty to the previouse directory 
+12. A script that list all contents including hidden files of the working directory, parent of working dir and of /boot.
 
