@@ -11,3 +11,4 @@ A script that duplicates the last line of the file iacta.
 A script that deletes specific files using wildcards.
 A script that counts the number of directories and sub-directories in the current directory.
 A script that displays the 10 newest files in the current directory, One file per line. Sorted from the newest to the oldest
+A script that takes a list of words as input and prints only words that appear exactly once.
