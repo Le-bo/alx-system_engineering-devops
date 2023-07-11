@@ -14,3 +14,4 @@ A script that displays the 10 newest files in the current directory, One file pe
 A script that takes a list of words as input and prints only words that appear exactly once.
 A script that display lines containing the pattern “root” from the file /etc/passwd.
 A script that diplay the number of lines that contain the pattern “bin” in the file /etc/passwd.
+A script that display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.
